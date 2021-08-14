@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Yadav
-#### I am a student studying BCAD Year 2
+### Hi there 👋, my name is theJivanNator
+
 
 
 I play games.
