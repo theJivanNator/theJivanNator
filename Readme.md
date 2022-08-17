@@ -21,7 +21,7 @@ Skills:
 <img align="left" alt="Java" width="50px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" />
 <img align="left" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="Java" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKA0AApMTjYFjH3ufQjXgaLDGK5bEFewxqZVZpF-sV5jHMPVVz6_7wBQjLbhw4_miXUw&usqp=CAU" />
-<img  align="left" src="https://img.icons8.com/office/16/000000/react.png"/>
+<img  align="left" src="https://img.icons8.com/officel/80/000000/react.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img align="left" alt="Java" width="50px" src="https://www.freeiconspng.com/thumbs/fl-studio-icon/fruity-loops-studio-icon-32.jpg" />
